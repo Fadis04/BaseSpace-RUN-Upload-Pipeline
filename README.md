@@ -108,7 +108,8 @@ Contributions are welcome! Please submit bug reports, feature requests, or pull 
 
 ## Example Command
 
-``` bash BS_run_upload_pip.sh 
+```
+bash BS_run_upload_pip.sh 
 Enter path: ~/Runs/Run_2025-11-17
 Enter run name: My_Run
 Enter instrument: NextSeq2000
@@ -127,7 +128,7 @@ Allow invalid read names? no
 
 ## Included Files
 
-- `upload_basespace.sh` – Main Bash pipeline script  
+- `BS_run_upload_pip.sh ` – Main Bash pipeline script  
 - HTML documentation files – user manuals and instructions  
 - `README.md` – This file  
 - `logs/` – Directory for automatically generated logs (created by the script)  
