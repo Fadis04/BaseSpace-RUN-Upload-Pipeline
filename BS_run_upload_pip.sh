@@ -53,14 +53,34 @@ if ! command -v bs &> /dev/null; then
     bs --version | tee -a "$LOGFILE"
 fi
 
-# -------- Authentication check --------
-if ! bs whoami &> /dev/null; then
-    echo -e "${YELLOW}[AUTH] Not authenticated. Launching bs auth...${NC}" | tee -a "$LOGFILE"
-    bs auth | tee -a "$LOGFILE"
+# -------- Authentication Check (Interactive) --------
+CURRENT_USER=$(bs whoami 2>/dev/null)
+
+if [[ -n "$CURRENT_USER" ]]; then
+    # Un utilisateur est déjà connecté
+    echo -e "${BLUE}----------------------------------------${NC}"
+    echo -e "${YELLOW}[AUTH] Currently logged in as: ${GREEN}$CURRENT_USER${NC}"
+    echo -e "${BLUE}----------------------------------------${NC}"
+    
+    read -rp "Do you want to upload using this account? (yes/no): " USE_CURRENT
+    USE_CURRENT=${USE_CURRENT:-yes}
+
+    if [[ "$USE_CURRENT" == "no" ]] || [[ "$USE_CURRENT" == "n" ]]; then
+        echo -e "${YELLOW}[AUTH] Switching account... Launching authentication process.${NC}"
+        bs auth --force 2>&1 | tee -a "$LOGFILE"
+        # Si --force n'est pas supporté par votre version de bs, utilisez simplement: bs auth
+    else
+        echo -e "${GREEN}[AUTH] Keeping current session.${NC}"
+    fi
+else
+    # Personne n'est connecté
+    echo -e "${YELLOW}[AUTH] Not authenticated. Launching initialization...${NC}"
+    bs auth 2>&1 | tee -a "$LOGFILE"
 fi
 
-USER=$(bs whoami)
-echo -e "${GREEN}[INFO] Authenticated as: $USER${NC}" | tee -a "$LOGFILE"
+# Vérification finale de l'utilisateur
+FINAL_USER=$(bs whoami)
+echo -e "${GREEN}[INFO] Uploading process will run as: $FINAL_USER${NC}" | tee -a "$LOGFILE"
 
 # -------- Generate checksums --------
 echo -e "${BLUE}[INFO] Generating MD5 checksums for all files...${NC}" | tee -a "$LOGFILE"
@@ -94,4 +114,3 @@ fi
 echo -e "${GREEN}[INFO] Upload completed successfully!${NC}" | tee -a "$LOGFILE"
 echo -e "${BLUE}========================================${NC}"
 exit 0
-
