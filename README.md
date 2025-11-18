@@ -82,17 +82,6 @@ for auditing and troubleshooting purposes.
 
 ---
 
-## Skills & Projects
-
-**Fadi Slimi – Bioinformatics Expertise**  
-
-- **M2 Research Project:** Alternative splicing in speciation, in collaboration with LBBE (CNRS, Claude Bernard University, France) and Sweden. Focused on transcriptomic analysis and bioinformatics pipelines.  
-- **Professional Experience:** Currently at Medibio, official Illumina partner in North Africa, working on NGS workflows, data analysis, and bioinformatics consulting. Previously at Biotools, official Oxford Nanopore Technologies partner in North Africa.  
-- **Skills & Projects:** Extensive experience in NGS data analysis (Illumina & Nanopore), variant calling, functional annotation, population genetics, and database management. Developed multiple open-source bioinformatics pipelines for transcriptomics, machine learning, and general bioinformatics/statistics needs. All projects are documented and reproducible on [GitHub](https://github.com/yourusername).  
-- **Tools & Languages:** Python, R, Bash, Galaxy pipelines, CRISPR/Cas data handling, BLAST, PyMOL, PLINK, and genomic databases.  
-
----
-
 ## License
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.  
