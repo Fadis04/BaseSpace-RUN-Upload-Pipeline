@@ -1,7 +1,7 @@
 # BaseSpace RUN Upload Pipeline
 
 **Author:** Fadi Slimi  
-**© 2025 Fadi Slimi – Medibio**  
+**© 2025 Fadi Slimi – Medibio (Officiel Partner Illumina - North Africa)**  
 
 A friendly and automated Bash pipeline to upload NGS Run folders to Illumina BaseSpace, including authentication, checksum verification, and log generation. Designed for Linux systems and client-friendly use.  
 
@@ -85,7 +85,7 @@ for auditing and troubleshooting purposes.
 ## License
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.  
-© 2025 Fadi Slimi – Medibio  
+© 2025 Fadi Slimi – Medibio (Official Partner Illumina - North Africa)
 
 ---
 
