@@ -1,0 +1,323 @@
+2025-11-25 09:51:11 [INFO] Run folder: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 09:51:11 [INFO] Run name: 251014_M08067
+2025-11-25 09:51:11 [INFO] Detected instrument: iSeq
+2025-11-25 09:51:11 [INFO] Searching for FASTQ files under /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/...
+2025-11-25 09:51:13 [INFO] Found 10 FASTQ files. Standardizing names...
+2025-11-25 09:51:13 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D1107_S4_L001_R1_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D1107_S1_L001_R1_001.fastq.gz
+2025-11-25 09:51:13 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D1107_S4_L001_R2_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D1107_S2_L001_R2_001.fastq.gz
+2025-11-25 09:51:13 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D1278_S1_L001_R1_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D1278_S3_L001_R1_001.fastq.gz
+2025-11-25 09:51:13 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D1278_S1_L001_R2_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D1278_S4_L001_R2_001.fastq.gz
+2025-11-25 09:51:13 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D675_S2_L001_R1_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D675_S5_L001_R1_001.fastq.gz
+2025-11-25 09:51:14 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D675_S2_L001_R2_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D675_S6_L001_R2_001.fastq.gz
+2025-11-25 09:51:14 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D980_S3_L001_R1_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D980_S7_L001_R1_001.fastq.gz
+2025-11-25 09:51:14 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D980_S3_L001_R2_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/24D980_S8_L001_R2_001.fastq.gz
+2025-11-25 09:51:14 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/Undetermined_S0_L001_R1_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/Undetermined_S9_L001_R1_001.fastq.gz
+2025-11-25 09:51:14 [INFO] Renamed /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/Undetermined_S0_L001_R2_001.fastq.gz -> /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/Alignment_1/20251015_202747/Fastq/Undetermined_S10_L001_R2_001.fastq.gz
+2025-11-25 09:51:14 [INFO] FASTQ standardization complete.
+2025-11-25 09:51:14 [INFO] Generating checksums to /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH//md5sum.txt (parallel if possible)...
+2025-11-25 10:00:44 [INFO] Run folder: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 10:00:44 [INFO] Run name: 251014_M08067
+2025-11-25 10:00:44 [INFO] Detected instrument: iSeq
+2025-11-25 10:00:44 [INFO] Scanning FASTQ files under: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 10:00:46 [INFO] Found 10 FASTQ files
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: 24D1107_S4_L001_R1_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: 24D1107_S4_L001_R2_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: 24D1278_S1_L001_R1_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: 24D1278_S1_L001_R2_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: 24D675_S2_L001_R1_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: 24D675_S2_L001_R2_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: 24D980_S3_L001_R1_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: 24D980_S3_L001_R2_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: Undetermined_S10_L001_R2_001.fastq.gz
+2025-11-25 10:00:46 [INFO] [OK] Valid FASTQ — no change: Undetermined_S9_L001_R1_001.fastq.gz
+2025-11-25 10:00:46 [INFO] FASTQ check & fix complete.
+2025-11-25 10:00:46 [INFO] Generating checksums to /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH//md5sum.txt (parallel if possible)...
+2025-11-25 10:07:28 [INFO] Checksums generated: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH//md5sum.txt
+2025-11-25 10:07:28 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 10:07:28 [INFO] Network OK
+2025-11-25 10:07:28 [INFO] Starting upload attempt 1/10
+2025-11-25 10:07:34 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 10:07:39 [INFO] Network OK
+2025-11-25 10:07:39 [INFO] Starting upload attempt 2/10
+2025-11-25 10:07:42 [WARN] Upload attempt 2 failed. Will retry after 10 seconds...
+2025-11-25 10:07:52 [INFO] Network OK
+2025-11-25 10:07:52 [INFO] Starting upload attempt 3/10
+2025-11-25 10:07:54 [WARN] Upload attempt 3 failed. Will retry after 20 seconds...
+2025-11-25 10:08:15 [INFO] Network OK
+2025-11-25 10:08:15 [INFO] Starting upload attempt 4/10
+2025-11-25 10:08:17 [WARN] Upload attempt 4 failed. Will retry after 40 seconds...
+2025-11-25 10:08:58 [INFO] Network OK
+2025-11-25 10:08:58 [INFO] Starting upload attempt 5/10
+2025-11-25 10:09:00 [WARN] Upload attempt 5 failed. Will retry after 80 seconds...
+2025-11-25 10:10:21 [INFO] Network OK
+2025-11-25 10:10:21 [INFO] Starting upload attempt 6/10
+2025-11-25 10:10:23 [WARN] Upload attempt 6 failed. Will retry after 160 seconds...
+2025-11-25 10:13:15 [INFO] Run folder: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 10:13:15 [INFO] Run name: 251014_M08067
+2025-11-25 10:13:16 [INFO] Detected instrument: iSeq
+2025-11-25 10:13:16 [INFO] Scanning FASTQ files under: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 10:13:17 [INFO] Found 10 FASTQ files
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: 24D1107_S4_L001_R1_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: 24D1107_S4_L001_R2_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: 24D1278_S1_L001_R1_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: 24D1278_S1_L001_R2_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: 24D675_S2_L001_R1_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: 24D675_S2_L001_R2_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: 24D980_S3_L001_R1_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: 24D980_S3_L001_R2_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: Undetermined_S10_L001_R2_001.fastq.gz
+2025-11-25 10:13:17 [INFO] [OK] Valid FASTQ — no change: Undetermined_S9_L001_R1_001.fastq.gz
+2025-11-25 10:13:17 [INFO] FASTQ check & fix complete.
+2025-11-25 10:13:17 [INFO] Generating checksums to /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH//md5sum.txt (parallel if possible)...
+2025-11-25 10:22:16 [INFO] Checksums generated: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH//md5sum.txt
+2025-11-25 10:22:16 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 10:22:17 [INFO] Network OK
+2025-11-25 10:22:17 [INFO] Starting upload attempt 1/10
+2025-11-25 10:22:23 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 10:22:28 [INFO] Network OK
+2025-11-25 10:22:28 [INFO] Starting upload attempt 2/10
+2025-11-25 10:22:31 [WARN] Upload attempt 2 failed. Will retry after 10 seconds...
+2025-11-25 10:22:42 [INFO] Network OK
+2025-11-25 10:22:42 [INFO] Starting upload attempt 3/10
+2025-11-25 10:22:45 [WARN] Upload attempt 3 failed. Will retry after 20 seconds...
+2025-11-25 10:23:06 [INFO] Network OK
+2025-11-25 10:23:06 [INFO] Starting upload attempt 4/10
+2025-11-25 10:23:09 [WARN] Upload attempt 4 failed. Will retry after 40 seconds...
+2025-11-25 10:26:43 [INFO] Run folder: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 10:26:43 [INFO] Run name: 251014_M08067
+2025-11-25 10:26:43 [INFO] Detected instrument: iSeq
+2025-11-25 10:26:43 [INFO] Scanning FASTQ files under: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 10:26:45 [INFO] Found 10 FASTQ files
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: 24D1107_S4_L001_R1_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: 24D1107_S4_L001_R2_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: 24D1278_S1_L001_R1_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: 24D1278_S1_L001_R2_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: 24D675_S2_L001_R1_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: 24D675_S2_L001_R2_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: 24D980_S3_L001_R1_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: 24D980_S3_L001_R2_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: Undetermined_S10_L001_R2_001.fastq.gz
+2025-11-25 10:26:45 [INFO] [OK] Valid FASTQ — no change: Undetermined_S9_L001_R1_001.fastq.gz
+2025-11-25 10:26:45 [INFO] FASTQ check & fix complete.
+2025-11-25 10:26:45 [INFO] Generating checksums to /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH//md5sum.txt (parallel if possible)...
+2025-11-25 10:35:41 [INFO] Checksums generated: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH//md5sum.txt
+2025-11-25 10:35:41 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 10:35:41 [INFO] Network OK
+2025-11-25 10:35:41 [INFO] Starting upload attempt 1/10
+2025-11-25 10:35:49 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 10:35:54 [INFO] Network OK
+2025-11-25 10:35:54 [INFO] Starting upload attempt 2/10
+2025-11-25 10:35:58 [WARN] Upload attempt 2 failed. Will retry after 10 seconds...
+2025-11-25 10:36:08 [INFO] Network OK
+2025-11-25 10:36:08 [INFO] Starting upload attempt 3/10
+2025-11-25 10:36:13 [WARN] Upload attempt 3 failed. Will retry after 20 seconds...
+2025-11-25 10:36:34 [INFO] Network OK
+2025-11-25 10:36:34 [INFO] Starting upload attempt 4/10
+2025-11-25 10:36:39 [WARN] Upload attempt 4 failed. Will retry after 40 seconds...
+2025-11-25 10:37:19 [INFO] Network OK
+2025-11-25 10:37:19 [INFO] Starting upload attempt 5/10
+2025-11-25 10:37:23 [WARN] Upload attempt 5 failed. Will retry after 80 seconds...
+2025-11-25 10:38:43 [INFO] Network OK
+2025-11-25 10:38:43 [INFO] Starting upload attempt 6/10
+2025-11-25 10:38:48 [WARN] Upload attempt 6 failed. Will retry after 160 seconds...
+2025-11-25 11:11:41 [INFO] Run folder: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:11:41 [INFO] Run name: test1
+2025-11-25 11:11:41 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 11:11:44 [INFO] ✅ Connected to BaseSpace.
+2025-11-25 11:11:44 [INFO] Account info: +----------------+----------------------------------------------------+
+| Name           | Fadi Slimi                                         |
+| Id             | 71559488                                           |
+| Email          | fadi.slimi@insat.ucar.tn                           |
+| DateCreated    | 2025-09-10 15:43:45 +0000 UTC                      |
+| DateLastActive | 2025-11-25 10:11:44.561921 +0000 UTC               |
+| Host           | https://api.basespace.illumina.com                 |
+| Scopes         | READ GLOBAL, CREATE GLOBAL, BROWSE GLOBAL,         |
+|                | CREATE PROJECTS, CREATE RUNS, START APPLICATIONS,  |
+|                | MOVETOTRASH GLOBAL, WRITE GLOBAL                   |
++----------------+----------------------------------------------------+
+2025-11-25 11:11:44 [INFO] Detected instrument: Unknown
+2025-11-25 11:11:44 [INFO] Instrument set to: Detected instrument: Unknown
+Unknown
+2025-11-25 11:11:44 [INFO] Scanning FASTQ files under: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:11:44 [INFO] Found 2 FASTQ files
+2025-11-25 11:11:44 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R1_001.fastq.gz
+2025-11-25 11:11:44 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R2_001.fastq.gz
+2025-11-25 11:11:44 [INFO] FASTQ check & fix complete.
+2025-11-25 11:11:44 [INFO] Generating checksums to 190708_M00123_0100_000000000-A2B3C//md5sum.txt (parallel if possible)...
+2025-11-25 11:11:44 [INFO] Checksums generated: 190708_M00123_0100_000000000-A2B3C//md5sum.txt
+2025-11-25 11:11:44 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 11:11:45 [INFO] Network OK
+2025-11-25 11:11:45 [INFO] Starting upload attempt 1/10
+2025-11-25 11:11:46 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 11:11:52 [INFO] Network OK
+2025-11-25 11:11:52 [INFO] Starting upload attempt 2/10
+2025-11-25 11:11:54 [WARN] Upload attempt 2 failed. Will retry after 10 seconds...
+2025-11-25 11:16:47 [INFO] Run folder: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:16:47 [INFO] Run name: test1
+2025-11-25 11:16:47 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 11:16:49 [INFO] ✅ Connected to BaseSpace.
+2025-11-25 11:16:49 [INFO] Account info: +----------------+----------------------------------------------------+
+| Name           | Fadi Slimi                                         |
+| Id             | 71559488                                           |
+| Email          | fadi.slimi@insat.ucar.tn                           |
+| DateCreated    | 2025-09-10 15:43:45 +0000 UTC                      |
+| DateLastActive | 2025-11-25 10:16:49.607832 +0000 UTC               |
+| Host           | https://api.basespace.illumina.com                 |
+| Scopes         | READ GLOBAL, CREATE GLOBAL, BROWSE GLOBAL,         |
+|                | CREATE PROJECTS, CREATE RUNS, START APPLICATIONS,  |
+|                | MOVETOTRASH GLOBAL, WRITE GLOBAL                   |
++----------------+----------------------------------------------------+
+2025-11-25 11:16:49 [INFO] Detected instrument: iSeq
+2025-11-25 11:17:30 [INFO] Instrument set to: Detected instrument: iSeq
+Please select the correct iSeq instrument:
+iSeq100
+2025-11-25 11:17:30 [INFO] Scanning FASTQ files under: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:17:30 [INFO] Found 2 FASTQ files
+2025-11-25 11:17:30 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R1_001.fastq.gz
+2025-11-25 11:17:30 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R2_001.fastq.gz
+2025-11-25 11:17:30 [INFO] FASTQ check & fix complete.
+2025-11-25 11:17:30 [INFO] Generating checksums to 190708_M00123_0100_000000000-A2B3C//md5sum.txt (parallel if possible)...
+2025-11-25 11:17:30 [INFO] Checksums generated: 190708_M00123_0100_000000000-A2B3C//md5sum.txt
+2025-11-25 11:17:30 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 11:17:30 [INFO] Network OK
+2025-11-25 11:17:30 [INFO] Starting upload attempt 1/10
+2025-11-25 11:17:33 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 11:17:38 [INFO] Network OK
+2025-11-25 11:17:38 [INFO] Starting upload attempt 2/10
+2025-11-25 11:17:41 [WARN] Upload attempt 2 failed. Will retry after 10 seconds...
+2025-11-25 11:17:51 [INFO] Network OK
+2025-11-25 11:17:51 [INFO] Starting upload attempt 3/10
+2025-11-25 11:17:53 [WARN] Upload attempt 3 failed. Will retry after 20 seconds...
+2025-11-25 11:18:13 [INFO] Network OK
+2025-11-25 11:18:13 [INFO] Starting upload attempt 4/10
+2025-11-25 11:18:16 [WARN] Upload attempt 4 failed. Will retry after 40 seconds...
+2025-11-25 11:18:56 [INFO] Network OK
+2025-11-25 11:18:56 [INFO] Starting upload attempt 5/10
+2025-11-25 11:45:16 [INFO] Run folder: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:45:16 [INFO] Run name: test1
+2025-11-25 11:45:16 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 11:45:19 [INFO] ✅ Connected to BaseSpace.
+2025-11-25 11:45:19 [INFO] Account info: +----------------+----------------------------------------------------+
+| Name           | Fadi Slimi                                         |
+| Id             | 71559488                                           |
+| Email          | fadi.slimi@insat.ucar.tn                           |
+| DateCreated    | 2025-09-10 15:43:45 +0000 UTC                      |
+| DateLastActive | 2025-11-25 10:45:19.341755 +0000 UTC               |
+| Host           | https://api.basespace.illumina.com                 |
+| Scopes         | READ GLOBAL, CREATE GLOBAL, BROWSE GLOBAL,         |
+|                | CREATE PROJECTS, CREATE RUNS, START APPLICATIONS,  |
+|                | MOVETOTRASH GLOBAL, WRITE GLOBAL                   |
++----------------+----------------------------------------------------+
+2025-11-25 11:45:19 [INFO] Instrument set to: Detected instrument: iSeq
+iSeq100
+2025-11-25 11:45:19 [INFO] Scanning FASTQ files under: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:45:19 [INFO] Found 2 FASTQ files
+2025-11-25 11:45:19 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R1_001.fastq.gz
+2025-11-25 11:45:19 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R2_001.fastq.gz
+2025-11-25 11:45:19 [INFO] FASTQ check & fix complete.
+2025-11-25 11:45:19 [INFO] Generating checksums to 190708_M00123_0100_000000000-A2B3C//md5sum.txt (parallel if possible)...
+2025-11-25 11:45:19 [INFO] Checksums generated: 190708_M00123_0100_000000000-A2B3C//md5sum.txt
+2025-11-25 11:45:19 [INFO] Network OK
+2025-11-25 11:45:19 [INFO] Starting upload attempt 1/10
+2025-11-25 11:45:22 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 11:45:27 [INFO] Network OK
+2025-11-25 11:45:27 [INFO] Starting upload attempt 2/10
+2025-11-25 11:45:29 [WARN] Upload attempt 2 failed. Will retry after 10 seconds...
+2025-11-25 11:47:09 [INFO] Run folder: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:47:09 [INFO] Run name: test1
+2025-11-25 11:47:09 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 11:47:11 [INFO] ✅ Connected to BaseSpace.
+2025-11-25 11:47:11 [INFO] Account info: +----------------+----------------------------------------------------+
+| Name           | Fadi Slimi                                         |
+| Id             | 71559488                                           |
+| Email          | fadi.slimi@insat.ucar.tn                           |
+| DateCreated    | 2025-09-10 15:43:45 +0000 UTC                      |
+| DateLastActive | 2025-11-25 10:45:19 +0000 UTC                      |
+| Host           | https://api.basespace.illumina.com                 |
+| Scopes         | READ GLOBAL, CREATE GLOBAL, BROWSE GLOBAL,         |
+|                | CREATE PROJECTS, CREATE RUNS, START APPLICATIONS,  |
+|                | MOVETOTRASH GLOBAL, WRITE GLOBAL                   |
++----------------+----------------------------------------------------+
+2025-11-25 11:47:11 [INFO] Detected instrument: iSeq
+2025-11-25 11:47:11 [INFO] Single instrument option: iSeq100
+2025-11-25 11:47:11 [INFO] Instrument set to: 2025-11-25 11:47:11 [INFO] Detected instrument: iSeq
+2025-11-25 11:47:11 [INFO] Single instrument option: iSeq100
+iSeq100
+2025-11-25 11:47:11 [INFO] Scanning FASTQ files under: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:47:11 [INFO] Found 2 FASTQ files
+2025-11-25 11:47:11 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R1_001.fastq.gz
+2025-11-25 11:47:11 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R2_001.fastq.gz
+2025-11-25 11:47:11 [INFO] FASTQ check & fix complete.
+2025-11-25 11:47:11 [INFO] Generating checksums to 190708_M00123_0100_000000000-A2B3C//md5sum.txt (parallel if possible)...
+2025-11-25 11:47:11 [INFO] Checksums generated: 190708_M00123_0100_000000000-A2B3C//md5sum.txt
+2025-11-25 11:47:12 [INFO] Network OK
+2025-11-25 11:47:12 [INFO] Starting upload attempt 1/10
+2025-11-25 11:47:14 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 11:47:19 [INFO] Network OK
+2025-11-25 11:47:19 [INFO] Starting upload attempt 2/10
+2025-11-25 11:47:22 [WARN] Upload attempt 2 failed. Will retry after 10 seconds...
+2025-11-25 11:48:45 [INFO] Run folder: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:48:45 [INFO] Run name: test1
+2025-11-25 11:48:45 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 11:48:48 [INFO] ✅ Connected to BaseSpace.
+2025-11-25 11:48:48 [INFO] Account info: +----------------+----------------------------------------------------+
+| Name           | Fadi Slimi                                         |
+| Id             | 71559488                                           |
+| Email          | fadi.slimi@insat.ucar.tn                           |
+| DateCreated    | 2025-09-10 15:43:45 +0000 UTC                      |
+| DateLastActive | 2025-11-25 10:45:19 +0000 UTC                      |
+| Host           | https://api.basespace.illumina.com                 |
+| Scopes         | READ GLOBAL, CREATE GLOBAL, BROWSE GLOBAL,         |
+|                | CREATE PROJECTS, CREATE RUNS, START APPLICATIONS,  |
+|                | MOVETOTRASH GLOBAL, WRITE GLOBAL                   |
++----------------+----------------------------------------------------+
+2025-11-25 11:48:48 [INFO] Detected instrument: iSeq
+2025-11-25 11:48:48 [INFO] Single instrument option: iSeq100
+2025-11-25 11:48:48 [INFO] Instrument set to: 2025-11-25 11:48:48 [INFO] Detected instrument: iSeq
+2025-11-25 11:48:48 [INFO] Single instrument option: iSeq100
+iSeq100
+2025-11-25 11:48:48 [INFO] Scanning FASTQ files under: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:48:48 [INFO] Found 2 FASTQ files
+2025-11-25 11:48:48 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R1_001.fastq.gz
+2025-11-25 11:48:48 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R2_001.fastq.gz
+2025-11-25 11:48:48 [INFO] FASTQ check & fix complete.
+2025-11-25 11:48:48 [INFO] Generating checksums to 190708_M00123_0100_000000000-A2B3C//md5sum.txt (parallel if possible)...
+2025-11-25 11:48:48 [INFO] Checksums generated: 190708_M00123_0100_000000000-A2B3C//md5sum.txt
+2025-11-25 11:48:48 [INFO] Network OK
+2025-11-25 11:48:48 [INFO] Starting upload attempt 1/10
+2025-11-25 11:48:51 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 11:48:56 [INFO] Network OK
+2025-11-25 11:48:56 [INFO] Starting upload attempt 2/10
+2025-11-25 11:53:55 [INFO] Run folder: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:53:55 [INFO] Run name: test1
+2025-11-25 11:53:55 [INFO] BaseSpace CLI found: /home/fadis/bin/bs
+2025-11-25 11:53:57 [INFO] ✅ Connected to BaseSpace.
+2025-11-25 11:53:57 [INFO] Account info: +----------------+----------------------------------------------------+
+| Name           | Fadi Slimi                                         |
+| Id             | 71559488                                           |
+| Email          | fadi.slimi@insat.ucar.tn                           |
+| DateCreated    | 2025-09-10 15:43:45 +0000 UTC                      |
+| DateLastActive | 2025-11-25 10:53:57.839469 +0000 UTC               |
+| Host           | https://api.basespace.illumina.com                 |
+| Scopes         | READ GLOBAL, CREATE GLOBAL, BROWSE GLOBAL,         |
+|                | CREATE PROJECTS, CREATE RUNS, START APPLICATIONS,  |
+|                | MOVETOTRASH GLOBAL, WRITE GLOBAL                   |
++----------------+----------------------------------------------------+
+2025-11-25 11:53:57 [INFO] Detected instrument: iSeq
+2025-11-25 11:53:57 [INFO] Single instrument option: iSeq100
+2025-11-25 11:53:57 [INFO] Instrument set to: 2025-11-25 11:53:57 [INFO] Detected instrument: iSeq
+2025-11-25 11:53:57 [INFO] Single instrument option: iSeq100
+iSeq100
+2025-11-25 11:53:57 [INFO] Scanning FASTQ files under: 190708_M00123_0100_000000000-A2B3C/
+2025-11-25 11:53:57 [INFO] Found 2 FASTQ files
+2025-11-25 11:53:57 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R1_001.fastq.gz
+2025-11-25 11:53:57 [INFO] [OK] Valid FASTQ — no change: Sample-A_S1_L001_R2_001.fastq.gz
+2025-11-25 11:53:57 [INFO] FASTQ check & fix complete.
+2025-11-25 11:53:57 [INFO] Generating checksums to 190708_M00123_0100_000000000-A2B3C//md5sum.txt (parallel if possible)...
+2025-11-25 11:53:58 [INFO] Checksums generated: 190708_M00123_0100_000000000-A2B3C//md5sum.txt
+2025-11-25 11:53:58 [INFO] Network OK
+2025-11-25 11:53:58 [INFO] Starting upload attempt 1/10
+2025-11-25 11:54:00 [WARN] Upload attempt 1 failed. Will retry after 5 seconds...
+2025-11-25 11:54:05 [INFO] Network OK
+2025-11-25 11:54:05 [INFO] Starting upload attempt 2/10
+2025-11-25 11:54:08 [WARN] Upload attempt 2 failed. Will retry after 10 seconds...

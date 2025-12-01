@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<RunParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlannedReads>
+    <Read Number="1" NumCycles="151" IsIndexedRead="N" />
+    <Read Number="2" NumCycles="10" IsIndexedRead="Y" />
+    <Read Number="3" NumCycles="10" IsIndexedRead="Y" />
+    <Read Number="4" NumCycles="151" IsIndexedRead="N" />
+  </PlannedReads>
+  <ApplicationName>NextSeq Control Software</ApplicationName>
+  <ApplicationVersion>4.0.0</ApplicationVersion>
+  <RunId>240515_NH0000_0055_AHCYGCTTGX2</RunId>
+  <InstrumentId>NH0000</InstrumentId>
+  <RunStartTime>2025-11-25T11:00:00</RunStartTime>
+  <FlowCellType>P2</FlowCellType>
+</RunParameters>

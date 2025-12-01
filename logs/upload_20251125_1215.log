@@ -1,0 +1,26 @@
+2025-11-25 12:15:49 [INFO] Run folder: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 12:15:49 [INFO] Run name: 251014_M08067
+[1;32m[INFO] Uploading as: +----------------+----------------------------------------------------+
+| Name           | Fadi Slimi                                         |
+| Id             | 71559488                                           |
+| Email          | fadi.slimi@insat.ucar.tn                           |
+| DateCreated    | 2025-09-10 15:43:45 +0000 UTC                      |
+| DateLastActive | 2025-11-25 11:15:52 +0000 UTC                      |
+| Host           | https://api.basespace.illumina.com                 |
+| Scopes         | READ GLOBAL, CREATE GLOBAL, BROWSE GLOBAL,         |
+|                | CREATE PROJECTS, CREATE RUNS, START APPLICATIONS,  |
+|                | MOVETOTRASH GLOBAL, WRITE GLOBAL                   |
++----------------+----------------------------------------------------+[0m
+2025-11-25 12:15:57 [INFO] Scanning FASTQ files under: /mnt/c/Users/Fadi.s/Desktop/251014_M08067_0013_000000000-M43JH/
+2025-11-25 12:15:58 [INFO] Found 10 FASTQ files
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: 24D1107_S4_L001_R1_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: 24D1107_S4_L001_R2_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: 24D1278_S1_L001_R1_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: 24D1278_S1_L001_R2_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: 24D675_S2_L001_R1_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: 24D675_S2_L001_R2_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: 24D980_S3_L001_R1_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: 24D980_S3_L001_R2_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: Undetermined_S10_L001_R2_001.fastq.gz
+2025-11-25 12:15:58 [INFO] [OK] Valid FASTQ — no change: Undetermined_S9_L001_R1_001.fastq.gz
+2025-11-25 12:15:58 [INFO] FASTQ check & fix complete.

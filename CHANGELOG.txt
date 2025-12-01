@@ -1,0 +1,8 @@
+CHANGELOG - BaseSpace Run Uploader
+
+v1.0 - 2025-11-25
+  - Initial release
+  - Auto-detection of sequencer
+  - FASTQ standardization
+  - Parallel checksums
+  - BaseSpace upload with retry and resume logic

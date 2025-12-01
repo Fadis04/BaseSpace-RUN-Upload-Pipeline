@@ -1,0 +1,3 @@
+2025-11-28 09:07:10 [INFO] Run folder: /home/fadis/190708_M00123_0100_000000000-A2B3C
+2025-11-28 09:07:10 [INFO] Run name: 190708_M00123_0100_000000000-A2B3C
+[31mERROR[0m: [1m*** config "/home/fadis/.basespace/default.cfg" already exists. Please use --force to overwrite ***[21m[0m

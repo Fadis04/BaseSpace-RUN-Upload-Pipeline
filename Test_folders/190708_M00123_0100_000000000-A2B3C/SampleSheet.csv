@@ -1,0 +1,23 @@
+[Header]
+IEMFileVersion,5
+Date,25/11/2025
+Workflow,GenerateFASTQ
+Application,HiSeq Control Software
+Assay,Sequencing
+Description,Test Run for BaseSpace Upload - 190708_M00123_0100_000000000-A2B3C
+Chemistry,MiSeq v3
+
+[Reads]
+Read1Cycles,151
+Read2Cycles,151
+Index1Cycles,10
+Index2Cycles,10
+
+[Settings]
+Adapter,AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+AdapterRead2,AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[Data]
+Sample_ID,Sample_Name,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+Sample-A,A-Test,N701,TAAGGCGA,S502,CTCTCTAT,Project_Test,Data for MiSeq
+Sample-B,B-Test,N702,TAGATCGC,S502,CTCTCTAT,Project_Test,Data for MiSeq

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunParameters xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Setup>
+    <Workflow Type="GenerateFastQ" />
+    <NumberOfCyclesRead1>151</NumberOfCyclesRead1>
+    <NumberOfCyclesRead2>151</NumberOfCyclesRead2>
+    <NumberOfCyclesIndex1>10</NumberOfCyclesIndex1>
+    <NumberOfCyclesIndex2>10</NumberOfCyclesIndex2>
+    <RTAVersion>2.11.1</RTAVersion>
+  </Setup>
+  <ReagentKit ID="Miseq Reagent Kit v3" />
+  <RTARunConfiguration>
+    <BclToFastqSettings>
+      <RunFolderDir>190708_M00123_0100_000000000-A2B3C</RunFolderDir>
+    </BclToFastqSettings>
+  </RTARunConfiguration>
+</RunParameters>
